@@ -1,0 +1,4 @@
+name: 522_test
+channels:
+  - conda-forge
+prefix: C:\Users\surya\miniforge3\envs\522_test
