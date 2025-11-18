@@ -4,4 +4,3 @@ channels:
 dependencies:
   - pandas
   - python
-prefix: C:\Users\surya\miniforge3\envs\522_test
