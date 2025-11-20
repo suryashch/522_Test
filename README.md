@@ -7,3 +7,7 @@ Here is the code you might need when committing to the github -->
 
 Remember to push to the new branch once committed -->
 - git push origin <branch>
+
+- git fetch --prune <branchname> will sync info from the remote about deleted branches.
+
+
