@@ -6,4 +6,5 @@ Here is the code you might need when committing to the github -->
 - git switch -c <name>
 
 Remember to push to the new branch once committed -->
-- git push origin <branch>
+- git push origin <branch>.
+- git branch -d <name> will delete the branch locally.
