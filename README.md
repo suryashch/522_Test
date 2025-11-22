@@ -6,8 +6,5 @@ Here is the code you might need when committing to the github -->
 - This is where I want my merge conflict to occur
 
 Remember to push to the new branch once committed -->
-- git push origin <branch>
-
-- git fetch --prune <branchname> will sync info from the remote about deleted branches.
-
-
+- git push origin <branch>.
+- git branch -d <name> will delete the branch locally.
